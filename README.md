@@ -37,7 +37,7 @@
 
 ### 🔥 My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedromonteiro01&theme=dark)](https://git.io/streak-stats)
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=pedromonteiro01&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api/?username=pedromonteiro01&bg_color=000000&text_color=ffffff&title_color=fff&show_icons=true&icon_color=79ff97)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pedromonteiro01&theme=dracula&margin-w=5&margin-h=5&row=2&column=4)](https://github.com/pedromonteiro01/)
 
