@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/pedromonteiro01/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="">
+    <a href="https://www.pedromonteiro01.com">
         <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
