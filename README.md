@@ -8,7 +8,7 @@
     <a href="https://github.com/pedromonteiro01" target="_blank">
         <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/pedromonteiro01/" target="_blank">
+    <a href="https://www.linkedin.com/in/pedromonteiro1/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.pedromonteiro01.com" target="_blank">
